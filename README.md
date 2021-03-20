@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sian-codes
 - 👀 I’m interested in becoming a MERN full stack Developer
-- 🌱 I’m currently learning how to create RESTful API's
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything fun and exciting 
 - 📫 How to reach me: by email! sian.codes.uk@gmail.com
 
