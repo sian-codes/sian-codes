@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sian-codes
-- 👀 I am a Software Engineer in FinTech! 
-- 🌱 I’m currently learning Kotlin & Swift
+- 👋 Hi, I’m Siân
+- 👀 I am a Graduate Software Engineer in FinTech! 
+- 🌱 I’m currently learning Kotlin, Swift and React Native
 - 💞️ I’m looking to collaborate on anything fun and exciting 
 - 📫 How to reach me: by email! sian.codes.uk@gmail.com
 
