@@ -1,21 +1,90 @@
-# 💫 About Me:
-🔭 I’m currently working on a integration product using React, Typescript and Java<br>🌱 I’m currently learning Java and React<br>💬 Ask me about narwhals <br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=650&height=70&lines=Hi+there!+👋+I'm+Siân;Software+Engineer+%7C+Problem+Solver;Curious.+Thoughtful.+Human." />
+</h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sian.codes) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sian-codes&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sian-codes&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sian-codes&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <strong>Software Engineer I</strong> • React • TypeScript • Java • Kotlin • Building thoughtful, human-centred software
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sian-codes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I’m a curious engineer who loves building systems that feel **clean, intentional and kind to the next person reading the code**.  
+I value clear thinking, collaborative problem-solving, and a bit of humour along the way.
+
+Outside work you'll usually find me exploring tech, learning new tools, and occasionally obsessing over narwhals 🐋🦄
+
+---
+
+## 🧠 Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring,ts,js,react,nodejs,gradle,jenkins,git,github,figma,docker,aws" />
+</p>
+
+---
+
+## 🌗 Light / Dark Mode Smart Badges
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Theme-Dark-5A5A5A?style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Theme-Light-9BD3F7?style=for-the-badge">
+    <img alt="Theme badge" src="https://img.shields.io/badge/Theme-Auto-blue?style=for-the-badge">
+  </picture>
+</p>
+
+---
+
+## 🎧 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+</p>
+
+> (This requires connecting the widget to your Spotify later — I can help you do that if you'd like 👍)
+
+---
+
+## 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sian-codes&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sian-codes&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sian-codes&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 GitHub Snake — My Contribution Game
+
+<p align="center">
+  <img src="https://github.com/sian-codes/sian-codes/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+> Your commits literally turn into a game 🎮
+
+---
+
+## 🌟 Featured Things I’m Working On
+
+- 💻 Improving developer experience & SDK design  
+- 📱 Android + Kotlin projects  
+- ⚙️ Modernising frontend stacks  
+- 🧠 Learning → system design & scalability
+
+---
+
+## 📬 Say Hello — GitHub Guestbook
+
+Leave me a message — I read them 💌  
+
+👉 **https://github.com/sian-codes/sian-codes/issues/new?template=guestbook-entry.md**
+
+(or just open an issue titled “Guestbook”)
+
+---
