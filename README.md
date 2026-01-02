@@ -25,26 +25,17 @@ Outside work you'll usually find me exploring tech, learning new tools, and occa
 
 ---
 
-## 🌗 Light / Dark Mode Smart Badges
+## 🎧 Listening on Spotify
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Theme-Dark-5A5A5A?style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Theme-Light-9BD3F7?style=for-the-badge">
-    <img alt="Theme badge" src="https://img.shields.io/badge/Theme-Auto-blue?style=for-the-badge">
-  </picture>
+  <a href="https://open.spotify.com/user/boneyardgirl">
+    <img
+      src="https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+      alt="Listen on Spotify"
+    />
+  </a>
 </p>
 
----
-
-## 🎧 Now Playing
-
-<p align="center">
-  <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=boneyardgirl&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true" 
-    alt="Spotify Now Playing" 
-  />
-</p>
 
 
 ---
@@ -52,12 +43,7 @@ Outside work you'll usually find me exploring tech, learning new tools, and occa
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sian-codes&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sian-codes&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sian-codes&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -65,10 +51,11 @@ Outside work you'll usually find me exploring tech, learning new tools, and occa
 ## 🐍 GitHub Snake — My Contribution Game
 
 <p align="center">
-  <img src="https://github.com/sian-codes/sian-codes/blob/output/github-contribution-grid-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/sian-codes/sian-codes/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
 </p>
-
-> Your commits literally turn into a game 🎮
 
 ---
 
