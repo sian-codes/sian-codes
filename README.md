@@ -37,13 +37,15 @@ Outside work you'll usually find me exploring tech, learning new tools, and occa
 
 ---
 
-## 🎧 Now Playing on Spotify
+## 🎧 Now Playing
 
 <p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=boneyardgirl&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true" 
+    alt="Spotify Now Playing" 
+  />
 </p>
 
-> (This requires connecting the widget to your Spotify later — I can help you do that if you'd like 👍)
 
 ---
 
