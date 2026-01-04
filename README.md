@@ -13,7 +13,7 @@
 I’m a curious engineer who loves building systems that feel **clean, intentional and kind to the next person reading the code**.  
 I value clear thinking, collaborative problem-solving, and a bit of humour along the way.
 
-Outside work you'll usually find me exploring tech, learning new tools, and occasionally obsessing over narwhals 🐋🦄
+Outside work, you'll usually find me exploring tech, learning new tools, playing Pokémon anything and occasionally obsessing over narwhals 🐋🦄
 
 ---
 
