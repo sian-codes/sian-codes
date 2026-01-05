@@ -36,27 +36,6 @@ Outside work, you'll usually find me exploring tech, learning new tools, playing
   </a>
 </p>
 
-
-
----
-
-## 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sian-codes&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🐍 GitHub Snake — My Contribution Game
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sian-codes/sian-codes/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-  />
-</p>
-
 ---
 
 ## 🌟 Featured Things I’m Working On
